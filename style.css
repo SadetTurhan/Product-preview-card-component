@@ -1,0 +1,60 @@
+*{
+    background-color: rgba(246, 219, 224, 0.827);
+}
+.mid{
+    display: flex;
+}
+.product{
+    margin-top: 150px;
+    margin-left: 450px;
+    width: 300px;
+    height: 400px;
+    border-radius: 3% 0 0 3%;
+}
+.text{
+    margin-top: 150px;  
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border-radius: 0 3% 3% 0;
+}
+
+.perfume{
+    font-size: 20px;
+    background-color: white;
+    margin-left: 24px;
+    margin-top: 20px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.headline{
+    font-size: 32px;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.description{
+    font-size: 18px;
+    margin-left: 20px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.price{
+    font-size: 25px;
+    margin-left: 20px;
+    background-color: white;
+    margin-top: 20px;
+    color: green;
+}
+.add{
+    background-color: green;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 180px;
+    height: 40px;
+    border-radius: 5%;
+    color: white;
+}
